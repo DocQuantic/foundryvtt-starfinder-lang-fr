@@ -97,12 +97,29 @@
         "ACTooltipArmorACMod": "Modificateur d'armure: {armor} ({name})",
         "ACTooltipBase": "Classe d'Armure de base: {base}",
         "ACTooltipBonus": "{type} Bonus: {mod} ({source})",
-        "ACTooltipMaxDex": "Modificateur de dextérité: {maxDex} (armure max dex: {armorMax})",
-        "ACTooltipNotProficientMod": "Malus de non-maîtrise: {profMod}",
+        "ACTooltipMaxDex": "Modificateur de dextérité: {maxDex} (armure max: {armorMax}, shield max: {shieldMax})",
+        "ACTooltipNotProficientMod": "Malus de non-maîtrise d'armure : {profMod}",
+        "ACTooltipNotProficientShield": "Malus de non-maîtrise de bouclier : {profMod}",
+        "ACTooltipShieldACMod": "Modificateur de Bouclier: {shield} ({name})",
         "ActorSheet": {
             "Attributes": {
                 "Skills": {
                     "SkillRanks": "Rangs de Compétence"
+                }
+            },
+            "Features": {
+                "Categories": {
+                    "Classes": "Classes",
+                    "Race": "Race",
+                    "Theme": "Thème",
+                    "Archetypes": "Archétypes",
+                    "ActiveFeats": "Traits Actifs",
+                    "PassiveFeats": "Traits Passifs"
+                },
+                "Filters": {
+                    "Action": "Action",
+                    "Bonus": "Bonus",
+                    "Reaction": "Réaction"
                 }
             },
             "Header": {
@@ -329,6 +346,13 @@
                 "BrowserSortMethodLevel": "Niveau",
                 "Button": "Sorts",
                 "Title": "Parcourir les Sorts"
+            },
+            "StarshipBrowser": {
+                "BrowserSortMethodBP": "PC",
+                "BrowserSortMethodPCU": "UE",
+                "Button": "Vaisseaux Spatiaux",
+                "ComponentType": "Type de composant",
+                "Title": "Parcourir les vaisseaux spatiaux"
             }
         },
         "CancelButtonLabel": "Annuler",
@@ -353,6 +377,11 @@
         "CharacterFlagsSectionRacialTraits": "Traits raciaux",
         "CharacterLevelsTooltip": "{class} Niveaux: {levels}",
         "CharacterNamePlaceHolderText": "Nom du personnage",
+        "CharacterSheet": {
+            "Inventory": {
+                "ContainedWealth": "Richesse : {wealth}"
+            }
+        },
         "ChatCard": {
             "DamageRoll": "Jet de Dommage",
             "HealingRoll": "Jet de Soin",
@@ -820,6 +849,7 @@
             "Identified": "Identifié",
             "MaxDex": "Modificateur de Dextérité Maximum",
             "Proficient": "Maîtrise",
+            "NotProficient": "Non maîtrisé",
             "Unlimited": "Illimité",
             "Action": {
                 "ActionType": "Type d'Action",
@@ -939,15 +969,23 @@
             },
             "Shield": {
                 "Action": "Action de Bouclier",
+                "AcMaxDex": "Bonus de dex max : {maxDex}",
+                "ACP": "MAT: {acp}",
                 "Aligned": "Aligné",
+                "ArmorCheck": "Malus d'armure aux tests : {acp}",
                 "Bonus": "Bonus de Bouclier",
+                "Bonuses": "Bonus d'utilisation : {wielded} / Bonus d'alignement : {aligned}",
                 "Details": "Détails du Bouclier",
-                "Wielded": "Manipulé"
+                "Dex": "Dex: {dex}",
+                "Shield": "Bouclier",
+                "ShieldBonus": "Bouclier : {wielded} / {aligned}",
+                "Wielded": "Utilisé"
             },
             "ShipWeapon": {
                 "ItemType": "Arme de Vaisseau",
                 "Source": "Source",
                 "Mounted": "Monté",
+                "NotMounted": "Non Monté",
                 "Activated": "Activé",
                 "WeaponArc": "Arc d'Arme",
                 "WeaponClass": "Classe d'Arme",
@@ -1348,6 +1386,12 @@
         "None": "Aucun",
         "Notes": "Notes",
         "NPCSheet": {
+            "Features": {
+                "Actions": "Actions",
+                "ActiveItems": "Eléments Actifs",
+                "Attacks": "Attaques",
+                "Features": "Spécificités"
+            },
             "Header": {
                 "NamePlaceHolderText": "Nom du Personnage",
                 "RaceAndGraftsPlaceHolderText": "Genre, Race, et Classe/Greffes",
@@ -1369,6 +1413,9 @@
                     "Note": "Sélectionnez le type d'élément que vous souhaitez créer.",
                     "Title": "Créer un nouvel élément"
                 }
+            },
+            "Inventory": {
+                "Inventory": "Inventaire"
             }
         },
         "NpcToggleSkillsDialogTitle": "Ajout de compétences aux PNJ",
@@ -1502,6 +1549,10 @@
             "Advantage": {
                 "Hint": "Basculer les avantages ou désavantages sur les lancers de dés.",
                 "Name": "Utilisez les avantages et désavantages?"
+            },
+            "AlwaysShowQuantity": {
+                "Hint": "Indique toujours la quantité des éléments, même si c'est 0 ou 1. Vous devrez rafraîchir votre fenêtre avant que ce changement ne prenne effet.",
+                "Name": "Toujours montrer les quantités"
             },
             "AutoCollapseCard": {
                 "Hint": "Plier automatiquement les descriptions des fiches d'articles dans le journal de discussion",
@@ -1806,6 +1857,28 @@
                 "PowerConsumption": "Consommation",
                 "PowerMissing": "Réacteur Manquant"
             },
+            "Critical": {
+                "Edit": "Editer les rôles affectés",
+                "EditMessage": "Sélectionnez les rôles qui sont affectés par les dommages causés à ce système.",
+                "EditTitle": "Sélectionner les rôles affectés",
+                "Header": "Dommages Critiques",
+                "Status": {
+                    "Glitching": "Dysfonctionnement",
+                    "Malfunctioning": "Défaillant",
+                    "Nominal": "Nominal",
+                    "Wrecked": "Détruit"
+                },
+                "Systems": {
+                    "Engines": "Propulseurs",
+                    "LifeSupport": "Systèmes vitaux",
+                    "PowerCore": "Réacteur",
+                    "Sensors": "Détecteurs",
+                    "WeaponsArrayAft": "Armes (Poupe)",
+                    "WeaponsArrayForward": "Armes (Proue)",
+                    "WeaponsArrayPort": "Armes (Bâbord)",
+                    "WeaponsArrayStarboard": "Armes (Tribord)"
+                }
+            },
             "Crew": {
                 "ActionsPerRound": "Actions par tour",
                 "AddSkill": "Ajouter compétence",
@@ -1859,10 +1932,35 @@
                 "PowerCores": "Réacteurs",
                 "PrimarySystems": "Systèmes Primaires",
                 "SecuritySystems": "Systèmes de Sécurité",
-                "Thrusters": "Réacteurs"
+                "Thrusters": "Thrusters",
+                "Prefixes": {
+                    "StarshipAblativeArmors": "Blindage Ablatif",
+                    "StarshipArmors": "Blindage",
+                    "StarshipComputers": "Ordinateur",
+                    "StarshipCrewQuarters": "Quartiers d'Equipage",
+                    "StarshipDefensiveCountermeasures": "Contre-mesures Défensives",
+                    "StarshipDriftEngine": "Propulseur Drift",
+                    "StarshipExpansionBays": "Compartiment Annexe",
+                    "StarshipFortifiedHulls": "Coque Renforcée",
+                    "StarshipFrames": "Armature",
+                    "StarshipOtherSystems": "Autre Système",
+                    "StarshipPowerCores": "Réacteur",
+                    "StarshipReinforcedBulkheads": "Cloison Renforcée",
+                    "StarshipSecuritySystems": "Système de Sécurité",
+                    "StarshipSensors": "Détecteur",
+                    "StarshipShields": "Bouclier",
+                    "StarshipThrusters": "Propulseur",
+                    "StarshipWeapons": "Arme"
+                }
             },
             "Header": {
+                "BP": "PC",
+                "CT": "SC",
+                "CriticalThreshold": "Seuil Critique",
+                "DT": "SD",
+                "DamageThreshold": "Seuil de Dommages",
                 "FrameMissing": "Armature manquante",
+                "HullPointIncrementTooltip": "C'est le nombre de points de coque qui sont ajoutés lorsque le navire atteint le niveau 4 (et tous les 4 niveaux par la suite)",
                 "Max": "Max",
                 "Misc": "Misc",
                 "Movement": {
@@ -1870,10 +1968,17 @@
                     "ManeuverabilityTooltip": "Manoeuvrabilité: {maneuverability}",
                     "Speed": "Vitesse",
                     "ThrustersMissing": "Propulseurs Manquant",
-                    "Turn": "Turn"
+                    "Title": "Mouvement",
+                    "Turn": "Virage"
                 },
+                "PCU": "UE",
                 "Size": "Taille : {size}",
+                "Statistics": "Statistiques",
+                "Thresholds": "Seuils",
                 "Value": "Valeur"
+            },
+            "Inventory": {
+                "Inventory": "Inventaire"
             },
             "Modifiers": {
                 "AblativeOverload": "Surcharge d'ablatif : {mod}",
@@ -1944,19 +2049,67 @@
         "UPBs": "PBU",
         "Vehicles": {
             "VehicleCoverTypes": {
-                "None": "None",
-                "Cover": "Cover",
-                "Soft": "Soft cover",
-                "Partial": "Partial cover",
-                "Total": "Total cover"
+                "None": "Aucune",
+                "Cover": "Couvert",
+                "Soft": "Couverture faible",
+                "Partial": "Couverture partielle",
+                "Total": "Couverture totale"
             },
             "VehicleTypes": {
-                "Land": "Land",
-                "Water": "Water",
-                "Hover": "Hover",
-                "Landw": "Land and water",
-                "Air": "Air",
-                "Landa": "Land and air"
+                "Land": "Sol",
+                "Water": "Nage",
+                "Hover": "Aéroglisseur",
+                "Landw": "Sol et nage",
+                "Air": "Vol",
+                "Landa": "Sol et vol"
+            }
+        },
+        "VehicleSheet": {
+            "Attacks": {
+                "Title": "Attaques et Modificateurs",
+                "ToDo": "This is still to-do."
+            },
+            "Details": {
+                "Dimensions": {
+                    "Length": "Longueur",
+                    "Height": "Hauteur",
+                    "Title": "Dimensions",
+                    "Unit": "Mètres",
+                    "Width": "Largeur"
+                },
+                "Hardness": "Solidité",
+                "Movement": {
+                    "Drive": "Croisière",
+                    "DrivePlaceholder": "e.g. 6 m",
+                    "DriveTooltip": "Mouvement en combat tactique lors de l'utilisation d'une action de mouvement.",
+                    "Full": "Max",
+                    "FullPlaceholder": "e.g. 150 m",
+                    "FullTooltip": "Mouvement en combat tactique lors de l'utilisation de l'action complète.",
+                    "Speed": "Vitesse",
+                    "SpeedPlaceholder": "e.g. 90 km/h",
+                    "SpeedTooltip": "Vitesse moyenne",
+                    "Title": "Vitesse"
+                },
+                "OtherAttributes": {
+                    "Cover": "Abri",
+                    "Passengers": "Passagers",
+                    "Size": "Taille",
+                    "Title": "Autres attributs",
+                    "Type": "Type"
+                },
+                "Threshold": "Seuil"
+            },
+            "Header": {
+                "Level": "Niveau",
+                "LevelPlaceholder": "1",
+                "NamePlaceholder": "Nom du véhicule",
+                "NameTooltip": "Entrez le nom du véhicule ici.",
+                "Price": "Prix",
+                "PricePlaceholder": "Prix en crédits",
+                "PriceTooltip": "Le montant en crédits que vaut ce véhicule."
+            },
+            "Tabs": {
+                "Attacks": "Attaques"
             }
         },
         "WeaponCategoriesCryo": "Armes cryogénique",
