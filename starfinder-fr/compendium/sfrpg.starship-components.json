@@ -1,0 +1,1170 @@
+﻿{
+  "label": "Classes",
+  "entries": [
+    {
+      "id": "Mk 10 armor",
+      "name": "Mk 10 armor",
+      "description": ""
+    },
+    {
+      "id": "Arcus Light",
+      "name": "Arcus Light",
+      "description": ""
+    },
+    {
+      "id": "S12 thrusters",
+      "name": "S12 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Budget medium-range sensors",
+      "name": "Budget medium-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Oma",
+      "name": "Oma",
+      "description": "<p><strong>Drift Resistant (Ex)</strong>&nbsp;An oma&rsquo;s body must be specially refitted to accommodate Drift travel; installing a Drift engine in an oma increases the price of the engine by 50%.</p"
+    },
+    {
+      "id": "Basic long-range sensors",
+      "name": "Basic long-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Mk 1 duonode",
+      "name": "Mk 1 duonode",
+      "description": ""
+    },
+    {
+      "id": "1vGBHlTJWcWSbOjx",
+      "name": "1vGBHlTJWcWSbOjx",
+      "description": "vGBHlTJWcWSbO"
+    },
+    {
+      "id": "Explorer",
+      "name": "Explorer",
+      "description": ""
+    },
+    {
+      "id": "Gateway Ultra",
+      "name": "Gateway Ultra",
+      "description": ""
+    },
+    {
+      "id": "Battleship",
+      "name": "Battleship",
+      "description": ""
+    },
+    {
+      "id": "Mk 4 defenses",
+      "name": "Mk 4 defenses",
+      "description": ""
+    },
+    {
+      "id": "Gravity cannon",
+      "name": "Gravity cannon",
+      "description": ""
+    },
+    {
+      "id": "Gateway Heavy",
+      "name": "Gateway Heavy",
+      "description": ""
+    },
+    {
+      "id": "G8 thrusters",
+      "name": "G8 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 2 defenses",
+      "name": "Mk 2 defenses",
+      "description": ""
+    },
+    {
+      "id": "Mk 10 defenses",
+      "name": "Mk 10 defenses",
+      "description": ""
+    },
+    {
+      "id": "Science lab",
+      "name": "Science lab",
+      "description": "A science lab contains scientific apparatuses and other laboratory equipment to aid in the research of certain topics. A general science lab provides a +1 circumstance bonus to Life Science and Physical Science checks (and is called a general science lab), a life science lab provides a +2 circumstance bonus to Life Science checks, and a physical science lab provides a +2 circumstance bonus to Physical Science checks. The lab type is chosen when the expansion bay is converted"
+    },
+    {
+      "id": "Bulk Freighter",
+      "name": "Bulk Freighter",
+      "description": ""
+    },
+    {
+      "id": "Synthesis Bay",
+      "name": "Synthesis Bay",
+      "description": "AA synthesis bay contains all the space and tools required to craft drugs, medicine, or poison (see page 235), though the crafter must still provide the necessary raw materials. A synthesis bay reduces the crafting time by half"
+    },
+    {
+      "id": "Light plasma cannon",
+      "name": "Light plasma cannon",
+      "description": ""
+    },
+    {
+      "id": "Vortex cannon",
+      "name": "Vortex cannon",
+      "description": ""
+    },
+    {
+      "id": "Hellfire torpedo launcher",
+      "name": "Hellfire torpedo launcher",
+      "description": ""
+    },
+    {
+      "id": "Statikete",
+      "name": "Statikete",
+      "description": "<p><strong>EMP Dispersal (Ex)</strong>&nbsp;When a starship built with a statikete frame is hit with an EMP weapon, it reduces the duration of that weapon&rsquo;s effect by half, rounded down to a minimum of 0 rounds.</p"
+    },
+    {
+      "id": "T14 thrusters",
+      "name": "T14 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Recreation suite (HAC)",
+      "name": "Recreation suite (HAC)",
+      "description": "A recreation suite includes entertainments that help the crew (or passengers) relax and blow off steam. These diversions can be wide-ranging, with some consuming more PCU than others (see the table on page 300). Example recreation suites include a gym, sparring arena, or other exercise area; a trivid den or other comfortable space in which to consume passive entertainment; or a holographic amusement chamber (or HAC), vidgame arcade, or other high-tech interactive entertainment center"
+    },
+    {
+      "id": "T6 thrusters",
+      "name": "T6 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Solar torpedo launcher",
+      "name": "Solar torpedo launcher",
+      "description": ""
+    },
+    {
+      "id": "X-laser cannon",
+      "name": "X-laser cannon",
+      "description": ""
+    },
+    {
+      "id": "Nova Ultra",
+      "name": "Nova Ultra",
+      "description": ""
+    },
+    {
+      "id": "C6 thrusters",
+      "name": "C6 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 2 duonode",
+      "name": "Mk 2 duonode",
+      "description": ""
+    },
+    {
+      "id": "Quantum missile launcher",
+      "name": "Quantum missile launcher",
+      "description": ""
+    },
+    {
+      "id": "Mk 10 mononode",
+      "name": "Mk 10 mononode",
+      "description": ""
+    },
+    {
+      "id": "Light plasma torpedo launcher",
+      "name": "Light plasma torpedo launcher",
+      "description": ""
+    },
+    {
+      "id": "Graser",
+      "name": "Graser",
+      "description": ""
+    },
+    {
+      "id": "Mk 6 duonode",
+      "name": "Mk 6 duonode",
+      "description": ""
+    },
+    {
+      "id": "G4 thrusters",
+      "name": "G4 thrusters",
+      "description": ""
+    },
+    {
+      "id": "M10 thrusters",
+      "name": "M10 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Chain cannon",
+      "name": "Chain cannon",
+      "description": ""
+    },
+    {
+      "id": "Pulse Brown",
+      "name": "Pulse Brown",
+      "description": ""
+    },
+    {
+      "id": "Mircron Light",
+      "name": "Mircron Light",
+      "description": ""
+    },
+    {
+      "id": "Heavy Shields 240",
+      "name": "Heavy Shields 240",
+      "description": ""
+    },
+    {
+      "id": "G6 thrusters",
+      "name": "G6 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Pulse Prismatic",
+      "name": "Pulse Prismatic",
+      "description": ""
+    },
+    {
+      "id": "Micron Heavy",
+      "name": "Micron Heavy",
+      "description": ""
+    },
+    {
+      "id": "T10 thrusters",
+      "name": "T10 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 3 trinode",
+      "name": "Mk 3 trinode",
+      "description": ""
+    },
+    {
+      "id": "Mk 8 mononode",
+      "name": "Mk 8 mononode",
+      "description": ""
+    },
+    {
+      "id": "Mk 14 defenses",
+      "name": "Mk 14 defenses",
+      "description": ""
+    },
+    {
+      "id": "Sc6 thrusters",
+      "name": "Sc6 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Medium Shields 120",
+      "name": "Medium Shields 120",
+      "description": ""
+    },
+    {
+      "id": "Twin laser",
+      "name": "Twin laser",
+      "description": ""
+    },
+    {
+      "id": "Supergraser",
+      "name": "Supergraser",
+      "description": ""
+    },
+    {
+      "id": "Mk 3 tetranode",
+      "name": "Mk 3 tetranode",
+      "description": ""
+    },
+    {
+      "id": "C8 thrusters",
+      "name": "C8 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mass driver",
+      "name": "Mass driver",
+      "description": ""
+    },
+    {
+      "id": "Mk 5 armor",
+      "name": "Mk 5 armor",
+      "description": ""
+    },
+    {
+      "id": "Life boats",
+      "name": "Life boats",
+      "description": "A life boat is a more sophisticated version of an escape pod. It has room for one Large creature, or two Medium or smaller creatures, and enough supplies to last those passengers 15 days (or 30 days of supplies for one Medium or smaller creature). While it has the same kind of distress beacon as an escape pod, a life boat also has an on-board computer that automatically detects the nearest hospitable celestial body and minimal thrusters to get the craft there (though a life boat can\u2019t participate in starship combat). A single expansion bay can be converted into two life boats"
+    },
+    {
+      "id": "Pulse Orange",
+      "name": "Pulse Orange",
+      "description": ""
+    },
+    {
+      "id": "Micron Ultra",
+      "name": "Micron Ultra",
+      "description": ""
+    },
+    {
+      "id": "Heavy Shields 280",
+      "name": "Heavy Shields 280",
+      "description": ""
+    },
+    {
+      "id": "H8 thrusters",
+      "name": "H8 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 4 armor",
+      "name": "Mk 4 armor",
+      "description": ""
+    },
+    {
+      "id": "Supermaser",
+      "name": "Supermaser",
+      "description": ""
+    },
+    {
+      "id": "Mk 9 armor",
+      "name": "Mk 9 armor",
+      "description": ""
+    },
+    {
+      "id": "Mk 3 mononode",
+      "name": "Mk 3 mononode",
+      "description": ""
+    },
+    {
+      "id": "Pulse Gray",
+      "name": "Pulse Gray",
+      "description": ""
+    },
+    {
+      "id": "Mk 5 mononode",
+      "name": "Mk 5 mononode",
+      "description": ""
+    },
+    {
+      "id": "Tactical nuclear missile launcher",
+      "name": "Tactical nuclear missile launcher",
+      "description": ""
+    },
+    {
+      "id": "Heavy torpedo launcher",
+      "name": "Heavy torpedo launcher",
+      "description": ""
+    },
+    {
+      "id": "Mk 3 armor",
+      "name": "Mk 3 armor",
+      "description": ""
+    },
+    {
+      "id": "Micromissile battery",
+      "name": "Micromissile battery",
+      "description": ""
+    },
+    {
+      "id": "Arcus Heavy",
+      "name": "Arcus Heavy",
+      "description": ""
+    },
+    {
+      "id": "Heavy plasma torpedo launcher",
+      "name": "Heavy plasma torpedo launcher",
+      "description": ""
+    },
+    {
+      "id": "High explosive missile launcher",
+      "name": "High explosive missile launcher",
+      "description": ""
+    },
+    {
+      "id": "S6 thrusters",
+      "name": "S6 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Vermelith",
+      "name": "Vermelith",
+      "description": "<p><strong>Extreme Resistance (Ex)</strong>&nbsp;An EMP weapon has half its normal duration against a vessel built using this frame. The vessel has a +1 bonus to its AC against direct fire weapons that use gravity and a +1 bonus to Piloting checks the pilot attempts due to gravity, such as escaping a tractor beam. In addition, a biomechanical ship built from this frame treats its radiation exposure as 1 level lower when determining critical damage effects due to radiation.</p"
+    },
+    {
+      "id": "H10 thrusters",
+      "name": "H10 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Railgun",
+      "name": "Railgun",
+      "description": ""
+    },
+    {
+      "id": "Mk 1 armor",
+      "name": "Mk 1 armor",
+      "description": ""
+    },
+    {
+      "id": "Mk 8 armor",
+      "name": "Mk 8 armor",
+      "description": ""
+    },
+    {
+      "id": "Mk 9 mononode",
+      "name": "Mk 9 mononode",
+      "description": ""
+    },
+    {
+      "id": "Heavy nuclear missile launcher",
+      "name": "Heavy nuclear missile launcher",
+      "description": ""
+    },
+    {
+      "id": "L4 thrusters",
+      "name": "L4 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Sc4 thrusters",
+      "name": "Sc4 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Shuttle",
+      "name": "Shuttle",
+      "description": ""
+    },
+    {
+      "id": "Mk 15 armor",
+      "name": "Mk 15 armor",
+      "description": ""
+    },
+    {
+      "id": "Mk 4 duonode",
+      "name": "Mk 4 duonode",
+      "description": ""
+    },
+    {
+      "id": "T12 thrusters",
+      "name": "T12 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Budget long-range sensors",
+      "name": "Budget long-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Particle beam",
+      "name": "Particle beam",
+      "description": ""
+    },
+    {
+      "id": "Arcane laboratory",
+      "name": "Arcane laboratory",
+      "description": "An arcane laboratory contains all the tools and space necessary to craft magic items (see page 235), though the crafter must still provide the necessary raw materials. Such a laboratory reduces the crafting time by hal"
+    },
+    {
+      "id": "Mk 1 mononode",
+      "name": "Mk 1 mononode",
+      "description": ""
+    },
+    {
+      "id": "Destroyer",
+      "name": "Destroyer",
+      "description": ""
+    },
+    {
+      "id": "Basic Shields 40",
+      "name": "Basic Shields 40",
+      "description": ""
+    },
+    {
+      "id": "Cruiser",
+      "name": "Cruiser",
+      "description": ""
+    },
+    {
+      "id": "T8 thrusters",
+      "name": "T8 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Sc8 thrusters",
+      "name": "Sc8 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 7 duonode",
+      "name": "Mk 7 duonode",
+      "description": ""
+    },
+    {
+      "id": "Flak thrower (point +8)",
+      "name": "Flak thrower (point +8)",
+      "description": ""
+    },
+    {
+      "id": "Mk 3 defenses",
+      "name": "Mk 3 defenses",
+      "description": ""
+    },
+    {
+      "id": "Mk 8 defenses",
+      "name": "Mk 8 defenses",
+      "description": ""
+    },
+    {
+      "id": "Titan Light",
+      "name": "Titan Light",
+      "description": ""
+    },
+    {
+      "id": "Light Shields 70",
+      "name": "Light Shields 70",
+      "description": ""
+    },
+    {
+      "id": "Interceptor",
+      "name": "Interceptor",
+      "description": ""
+    },
+    {
+      "id": "Cut-rate sensors",
+      "name": "Cut-rate sensors",
+      "description": ""
+    },
+    {
+      "id": "Medium Shields 100",
+      "name": "Medium Shields 100",
+      "description": ""
+    },
+    {
+      "id": "Luxurious crew quarters",
+      "name": "Luxurious crew quarters",
+      "description": "<p><span class=\"fontstyle0\">Luxurious crew quarters are the pinnacle of comfort. They consist of private rooms for each crew member, with personal bathrooms (including showers with high water pressure) and furnishings that match the resident&rsquo;s tastes. Some luxurious crew quarters also feature a kitchenette, gaming areas, or intimate meeting spaces.</span></p"
+    },
+    {
+      "id": "Arcus Ultra",
+      "name": "Arcus Ultra",
+      "description": ""
+    },
+    {
+      "id": "Plasma cannon",
+      "name": "Plasma cannon",
+      "description": ""
+    },
+    {
+      "id": "Mk 5 duonode",
+      "name": "Mk 5 duonode",
+      "description": ""
+    },
+    {
+      "id": "Heavy Shields 420",
+      "name": "Heavy Shields 420",
+      "description": ""
+    },
+    {
+      "id": "Light Shields 50",
+      "name": "Light Shields 50",
+      "description": ""
+    },
+    {
+      "id": "Guest quarters",
+      "name": "Guest quarters",
+      "description": "Starships that function as passenger vessels require spaces apart from their crew quarters for their guests to sleep. A single expansion bay can be converted into common quarters (usually simple bunks or hammocks) for six passengers, good quarters (usually a comfortable bed, a desk with a chair, and a small set of drawers) for four passengers, or luxurious quarters (usually a large bed, a wardrobe, a couch, a desk with a nice chair, and a private washroom) for two passengers"
+    },
+    {
+      "id": "Gateway Light",
+      "name": "Gateway Light",
+      "description": ""
+    },
+    {
+      "id": "Mk 15 defenses",
+      "name": "Mk 15 defenses",
+      "description": ""
+    },
+    {
+      "id": "Recreation suite (trivid den)",
+      "name": "Recreation suite (trivid den)",
+      "description": "A recreation suite includes entertainments that help the crew (or passengers) relax and blow off steam. These diversions can be wide-ranging, with some consuming more PCU than others (see the table on page 300). Example recreation suites include a gym, sparring arena, or other exercise area; a trivid den or other comfortable space in which to consume passive entertainment; or a holographic amusement chamber (or HAC), vidgame arcade, or other high-tech interactive entertainment center"
+    },
+    {
+      "id": "Heavy Shields 320",
+      "name": "Heavy Shields 320",
+      "description": ""
+    },
+    {
+      "id": "Pulse Blue",
+      "name": "Pulse Blue",
+      "description": ""
+    },
+    {
+      "id": "Gravity gun",
+      "name": "Gravity gun",
+      "description": ""
+    },
+    {
+      "id": "Mk 11 defenses",
+      "name": "Mk 11 defenses",
+      "description": ""
+    },
+    {
+      "id": "Budget short-range sensors",
+      "name": "Budget short-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Mk 7 mononode",
+      "name": "Mk 7 mononode",
+      "description": ""
+    },
+    {
+      "id": "Medical bay",
+      "name": "Medical bay",
+      "description": "A medical bay functions as a medical lab (see page 220"
+    },
+    {
+      "id": "Recreation suite (gym)",
+      "name": "Recreation suite (gym)",
+      "description": "A recreation suite includes entertainments that help the crew (or passengers) relax and blow off steam. These diversions can be wide-ranging, with some consuming more PCU than others (see the table on page 300). Example recreation suites include a gym, sparring arena, or other exercise area; a trivid den or other comfortable space in which to consume passive entertainment; or a holographic amusement chamber (or HAC), vidgame arcade, or other high-tech interactive entertainment center"
+    },
+    {
+      "id": "Pulse Red",
+      "name": "Pulse Red",
+      "description": ""
+    },
+    {
+      "id": "Persisten particle beam cannon",
+      "name": "Persisten particle beam cannon",
+      "description": ""
+    },
+    {
+      "id": "Basic medium-range sensors",
+      "name": "Basic medium-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Shuttle bay",
+      "name": "Shuttle bay",
+      "description": "A shuttle bay can be installed only in a Huge or larger starship and takes up two expansion bays. A shuttle bay provides a place for a Small or smaller starship to dock"
+    },
+    {
+      "id": "Gyrolaser",
+      "name": "Gyrolaser",
+      "description": ""
+    },
+    {
+      "id": "Pulse Green",
+      "name": "Pulse Green",
+      "description": ""
+    },
+    {
+      "id": "Light Freighter",
+      "name": "Light Freighter",
+      "description": ""
+    },
+    {
+      "id": "Heavy Freighter",
+      "name": "Heavy Freighter",
+      "description": ""
+    },
+    {
+      "id": "M12 thrusters",
+      "name": "M12 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 1 trinode",
+      "name": "Mk 1 trinode",
+      "description": ""
+    },
+    {
+      "id": "Mk 2 mononode",
+      "name": "Mk 2 mononode",
+      "description": ""
+    },
+    {
+      "id": "Mk 6 defenses",
+      "name": "Mk 6 defenses",
+      "description": ""
+    },
+    {
+      "id": "Heavy antimatter missile launcher",
+      "name": "Heavy antimatter missile launcher",
+      "description": ""
+    },
+    {
+      "id": "Medium Shields 90",
+      "name": "Medium Shields 90",
+      "description": ""
+    },
+    {
+      "id": "Mk 9 defenses",
+      "name": "Mk 9 defenses",
+      "description": ""
+    },
+    {
+      "id": "Mk 8 duonode",
+      "name": "Mk 8 duonode",
+      "description": ""
+    },
+    {
+      "id": "Dreadnought",
+      "name": "Dreadnought",
+      "description": ""
+    },
+    {
+      "id": "M6 thrusters",
+      "name": "M6 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Arcus Maximum",
+      "name": "Arcus Maximum",
+      "description": ""
+    },
+    {
+      "id": "Mk 2 tetranode",
+      "name": "Mk 2 tetranode",
+      "description": ""
+    },
+    {
+      "id": "Pulse White",
+      "name": "Pulse White",
+      "description": ""
+    },
+    {
+      "id": "Tech workshop",
+      "name": "Tech workshop",
+      "description": "A tech workshop contains all the space and tools necessary to craft technological items (see page 235), though the crafter must still provide the necessary raw materials. Such a workshop reduces the crafting time by hal"
+    },
+    {
+      "id": "Heavy laser net (point +12)",
+      "name": "Heavy laser net (point +12)",
+      "description": ""
+    },
+    {
+      "id": "Mk 6 armor",
+      "name": "Mk 6 armor",
+      "description": ""
+    },
+    {
+      "id": "Medium Shields 200",
+      "name": "Medium Shields 200",
+      "description": ""
+    },
+    {
+      "id": "Basic Shields 30",
+      "name": "Basic Shields 30",
+      "description": ""
+    },
+    {
+      "id": "Pulse Black",
+      "name": "Pulse Black",
+      "description": ""
+    },
+    {
+      "id": "Superior Shields 540",
+      "name": "Superior Shields 540",
+      "description": ""
+    },
+    {
+      "id": "Sealed engironment chamber",
+      "name": "Sealed engironment chamber",
+      "description": "Occasionally, a starship will need to host an alien or other creature whose biology is radically different from that of the crew. The passenger might be able to breathe only methane gas or can survive in only below-freezing temperatures. In such a case, a sealed environment chamber is required for the passenger to remain comfortable (and alive)"
+    },
+    {
+      "id": "Transport",
+      "name": "Transport",
+      "description": ""
+    },
+    {
+      "id": "Mk 1 defenses",
+      "name": "Mk 1 defenses",
+      "description": ""
+    },
+    {
+      "id": "L10 thrusters",
+      "name": "L10 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 14 armor",
+      "name": "Mk 14 armor",
+      "description": ""
+    },
+    {
+      "id": "Superior Shields 600",
+      "name": "Superior Shields 600",
+      "description": ""
+    },
+    {
+      "id": "H4 thrusters",
+      "name": "H4 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Power core housing",
+      "name": "Power core housing",
+      "description": "An expansion bay can be set aside for an additional power core (which must be purchased separately) and the associated wiring and safety apparatuses. A power core housing can be installed on only a Medium or larger starship"
+    },
+    {
+      "id": "Basic Shields 10",
+      "name": "Basic Shields 10",
+      "description": ""
+    },
+    {
+      "id": "Fighter",
+      "name": "Fighter",
+      "description": ""
+    },
+    {
+      "id": "Carrier",
+      "name": "Carrier",
+      "description": ""
+    },
+    {
+      "id": "Mk 1 tetranode",
+      "name": "Mk 1 tetranode",
+      "description": ""
+    },
+    {
+      "id": "Super X-laser cannon",
+      "name": "Super X-laser cannon",
+      "description": ""
+    },
+    {
+      "id": "Advanced short-range sensors",
+      "name": "Advanced short-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Advanced long-range sensors",
+      "name": "Advanced long-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Mk 12 armor",
+      "name": "Mk 12 armor",
+      "description": ""
+    },
+    {
+      "id": "Racer",
+      "name": "Racer",
+      "description": ""
+    },
+    {
+      "id": "Light laser cannon",
+      "name": "Light laser cannon",
+      "description": ""
+    },
+    {
+      "id": "Mk 2 trinode",
+      "name": "Mk 2 trinode",
+      "description": ""
+    },
+    {
+      "id": "Base Ship",
+      "name": "Base Ship",
+      "description": "<p><strong>Expansion Bays</strong>&nbsp;&mdash; (unlimited; a base ship with increased width or length can support more expansion bays)</p"
+    },
+    {
+      "id": "S10 thrusters",
+      "name": "S10 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Superlaser",
+      "name": "Superlaser",
+      "description": ""
+    },
+    {
+      "id": "Light torpedo launcher",
+      "name": "Light torpedo launcher",
+      "description": ""
+    },
+    {
+      "id": "Advanced medium-range sensors",
+      "name": "Advanced medium-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Common crew quarters",
+      "name": "Common crew quarters",
+      "description": "<p><span class=\"fontstyle0\">Common crew quarters are the most basic type. They consist of simple bunks (sometimes folding out from the side of a hallway) or other similarly austere places to rest. Crew members who sleep in common quarters usually keep their personal possessions in a footlocker. Common crew quarters also include a communal bathroom (which includes a military-style shower) and a tiny galley (big enough to prepare only the most basic of meals). Starships with crews numbering in the dozens or hundreds often have massive barracks where crew members sleep in shifts</span> .</p"
+    },
+    {
+      "id": "Mk 7 armor",
+      "name": "Mk 7 armor",
+      "description": ""
+    },
+    {
+      "id": "Mk 13 defenses",
+      "name": "Mk 13 defenses",
+      "description": ""
+    },
+    {
+      "id": "Escape pods",
+      "name": "Escape pods",
+      "description": "Escape pods give the crew of a severely damaged or destroyed starship a way to avoid imminent death. An escape pod fits one Medium or smaller creature and has enough supplies and life-support capacity for that creature to survive for 7 days. It is also fitted with a distress beacon that is easily identified by long-range scanners. An escape pod has heat shields that allow it to crash-land on a planet with an atmosphere, but no means of propulsion. A single expansion bay can be converted into six escape pods"
+    },
+    {
+      "id": "Basic Shields 20",
+      "name": "Basic Shields 20",
+      "description": ""
+    },
+    {
+      "id": "C4 thrusters",
+      "name": "C4 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 4 trinode",
+      "name": "Mk 4 trinode",
+      "description": ""
+    },
+    {
+      "id": "Mk 3 duonode",
+      "name": "Mk 3 duonode",
+      "description": ""
+    },
+    {
+      "id": "Persistent particle beam",
+      "name": "Persistent particle beam",
+      "description": ""
+    },
+    {
+      "id": "Mk 10 duonode",
+      "name": "Mk 10 duonode",
+      "description": ""
+    },
+    {
+      "id": "Smuggler compartment",
+      "name": "Smuggler compartment",
+      "description": "ASmuggler compartments are cargo holds hidden behind false bulkheads and are shielded from most scanning, allowing a starship equipped with them to haul illegal goods without detection. A smuggler compartment can contain 10 tons of goods, with no item being larger than Medium. A creature on the starship must succeed at a DC 20 Perception check to detect a basic smuggler compartment on the starship. A creature scanning the starship must succeed at a DC 20 Computers check to detect one (this additional check is part of the science officer\u2019s scan action in starship combat; see page 325). For each Build Point spent over the base cost, these DCs increase by 5 (maximum DC 50), though the amount of power the compartment uses also increases by 1"
+    },
+    {
+      "id": "Heavy laser cannon",
+      "name": "Heavy laser cannon",
+      "description": ""
+    },
+    {
+      "id": "Mk 6 mononode",
+      "name": "Mk 6 mononode",
+      "description": ""
+    },
+    {
+      "id": "Antimatter mega-missile launcher",
+      "name": "Antimatter mega-missile launcher",
+      "description": ""
+    },
+    {
+      "id": "Mk 2 armor",
+      "name": "Mk 2 armor",
+      "description": ""
+    },
+    {
+      "id": "Titan Ultra",
+      "name": "Titan Ultra",
+      "description": ""
+    },
+    {
+      "id": "Mk 4 mononode",
+      "name": "Mk 4 mononode",
+      "description": ""
+    },
+    {
+      "id": "L8 thrusters",
+      "name": "L8 thrusters",
+      "description": ""
+    },
+    {
+      "id": "S8 thrusters",
+      "name": "S8 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Mk 7 defenses",
+      "name": "Mk 7 defenses",
+      "description": ""
+    },
+    {
+      "id": "Mk 5 trinode",
+      "name": "Mk 5 trinode",
+      "description": ""
+    },
+    {
+      "id": "Mk 9 duonode",
+      "name": "Mk 9 duonode",
+      "description": ""
+    },
+    {
+      "id": "Mk 13 armor",
+      "name": "Mk 13 armor",
+      "description": ""
+    },
+    {
+      "id": "L6 thrusters",
+      "name": "L6 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Laser net (point +10)",
+      "name": "Laser net (point +10)",
+      "description": ""
+    },
+    {
+      "id": "Cargo hold",
+      "name": "Cargo hold",
+      "description": "Unconverted expansion bays count as cargo holds. A cargo hold can contain approximately 25 tons of goods, with no item being larger than Large. A starship with multiple cargo holds can hold larger objects; usually 4 contiguous cargo holds are required to hold Huge objects and 8 for Gargantuan objects. These size restrictions can be overridden at the GM\u2019s discretion"
+    },
+    {
+      "id": "Hanger bay",
+      "name": "Hanger bay",
+      "description": "A hangar bay can be installed only in a Gargantuan or larger starship and takes up 4 expansion bays. A hangar bay provides a place for up to 8 Tiny starships to dock"
+    },
+    {
+      "id": "Mk 5 defenses",
+      "name": "Mk 5 defenses",
+      "description": ""
+    },
+    {
+      "id": "Mk 11 armor",
+      "name": "Mk 11 armor",
+      "description": ""
+    },
+    {
+      "id": "Good crew quarters",
+      "name": "Good crew quarters",
+      "description": "<p><span class=\"fontstyle0\">Good crew quarters are a bit more upscale than common crew quarters. They consist of dormitory-style rooms that can hold one or two small beds (larger starships usually require lower-ranking crew members to share these quarters) and sometimes a personal closet or drawer space for each occupant. Good crew quarters also include one or two shared bathrooms with multiple sinks and shower stalls, and a dining space with an attached galley. Crews of larger starships eat in this dining space in shifts.</span></p"
+    },
+    {
+      "id": "Coilgun",
+      "name": "Coilgun",
+      "description": ""
+    },
+    {
+      "id": "Light EMP cannon",
+      "name": "Light EMP cannon",
+      "description": ""
+    },
+    {
+      "id": "Super plasma cannon",
+      "name": "Super plasma cannon",
+      "description": ""
+    },
+    {
+      "id": "Light Shields 60",
+      "name": "Light Shields 60",
+      "description": ""
+    },
+    {
+      "id": "Ultranought",
+      "name": "Ultranought",
+      "description": "<p><strong>Expansion Bays</strong>&nbsp;&mdash; (unlimited; an ultranought with increased width or length can support more expansion bays)</p"
+    },
+    {
+      "id": "Light Shields 80",
+      "name": "Light Shields 80",
+      "description": ""
+    },
+    {
+      "id": "Nuclear mega-missile launcher",
+      "name": "Nuclear mega-missile launcher",
+      "description": ""
+    },
+    {
+      "id": "H6 thrusters",
+      "name": "H6 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Nova Heavy",
+      "name": "Nova Heavy",
+      "description": ""
+    },
+    {
+      "id": "Maser",
+      "name": "Maser",
+      "description": ""
+    },
+    {
+      "id": "Passenger seating",
+      "name": "Passenger seating",
+      "description": "An expansion bay can be converted into rows of seating for passengers at no cost. A single expansion bay can hold seating for 16 Medium passengers (though seats can be built for larger creatures). This upgrade is appropriate only for taking many passengers on short trips; starships on journeys lasting multiple days should instead have guest quarters installed"
+    },
+    {
+      "id": "M8 thrusters",
+      "name": "M8 thrusters",
+      "description": ""
+    },
+    {
+      "id": "Medium Shields 160",
+      "name": "Medium Shields 160",
+      "description": ""
+    },
+    {
+      "id": "Heavy Shields 480",
+      "name": "Heavy Shields 480",
+      "description": ""
+    },
+    {
+      "id": "Light particle beam",
+      "name": "Light particle beam",
+      "description": ""
+    },
+    {
+      "id": "Nova Light",
+      "name": "Nova Light",
+      "description": ""
+    },
+    {
+      "id": "Heavy EMP cannon",
+      "name": "Heavy EMP cannon",
+      "description": ""
+    },
+    {
+      "id": "Basic computer",
+      "name": "Basic computer",
+      "description": ""
+    },
+    {
+      "id": "Particle beam cannon",
+      "name": "Particle beam cannon",
+      "description": ""
+    },
+    {
+      "id": "Basic short-range sensors",
+      "name": "Basic short-range sensors",
+      "description": ""
+    },
+    {
+      "id": "Heavy Shields 360",
+      "name": "Heavy Shields 360",
+      "description": ""
+    },
+    {
+      "id": "Heavy laser array",
+      "name": "Heavy laser array",
+      "description": ""
+    },
+    {
+      "id": "Titan Heavy",
+      "name": "Titan Heavy",
+      "description": ""
+    },
+    {
+      "id": "Super EMP cannon",
+      "name": "Super EMP cannon",
+      "description": ""
+    },
+    {
+      "id": "zmnmso1TEjlUdB3U\"",
+      "name": "zmnmso1TEjlUdB3U\"",
+      "description": "mnmso1TEjlUdB3"
+    }
+  ]
+}

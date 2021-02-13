@@ -1,0 +1,30 @@
+{
+  "label": "Classes",
+  "entries": [
+    {
+      "id": "9JfWw0xtea8VancY",
+      "name": "9JfWw0xtea8VancY",
+      "description": "JfWw0xtea8VancY\",\"flags\":{},\"type\":0,\"text\":\"Act normally.\",\"img\":\"icons/svg/d20-black.svg\",\"resultId\":\"\",\"weight\":1,\"range\":[1,25],\"drawn\":fa"
+    },
+    {
+      "id": "asjYZYxolRsCThJP",
+      "name": "asjYZYxolRsCThJP",
+      "description": "sjYZYxolRsCThJP\",\"flags\":{},\"type\":0,\"text\":\"Do nothing but babble incoherently.\",\"img\":\"icons/svg/d20-black.svg\",\"resultId\":\"\",\"weight\":1,\"range\":[26,50],\"drawn\":fa"
+    },
+    {
+      "id": "CgnespfARSd2lce6",
+      "name": "CgnespfARSd2lce6",
+      "description": "gnespfARSd2lce6\",\"flags\":{},\"type\":0,\"text\":\"Deal [[/r 1d8 + @abilities.str.mod]] damage to self with item in hand.\",\"img\":\"icons/svg/d20-black.svg\",\"resultId\":\"\",\"weight\":1,\"range\":[51,75],\"drawn\":fa"
+    },
+    {
+      "id": "KZIgQ5ZMS48h1rcl",
+      "name": "KZIgQ5ZMS48h1rcl",
+      "description": "ZIgQ5ZMS48h1rcl\",\"flags\":{},\"type\":0,\"text\":\"Attack nearest creature.\",\"img\":\"icons/svg/d20-black.svg\",\"resultId\":\"\",\"weight\":1,\"range\":[76,100],\"drawn\":false}],\"formula\":\"1d100\",\"replacement\":true,\"displayRoll\""
+    },
+    {
+      "id": "6rKoienlGlVDCc4t\"",
+      "name": "6rKoienlGlVDCc4t\"",
+      "description": "rKoienlGlVDCc4"
+    }
+  ]
+}
